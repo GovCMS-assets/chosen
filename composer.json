@@ -2,28 +2,7 @@
   "name": "govcms-assets/chosen",
   "description": "Chosen is a JavaScript plugin that makes select boxes user-friendly.",
   "type": "drupal-library",
-  "authors": [
-    {
-      "name": "John James Jacoby",
-      "homepage": "https://github.com/jjj"
-    },
-    {
-      "name": "Patrick Filler",
-      "homepage": "https://github.com/pfiller"
-    },
-    {
-      "name": "Christophe Coevoet",
-      "homepage": "https://github.com/stof"
-    },
-    {
-      "name": "Ken Earley",
-      "homepage": "https://github.com/kenearley"
-    },
-    {
-      "name": "Koen Punt",
-      "homepage": "https://github.com/koenpunt"
-    }
-  ],
+  "author": "",
   "keywords": [
     "select",
     "multiselect",
@@ -32,6 +11,6 @@
     "input",
     "ui"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "minimum-stability": "stable"
 }
